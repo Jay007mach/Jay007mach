@@ -14,6 +14,16 @@
 
 ---
 
+## 💡 What Sets Me Apart
+Strong analytical mindset with a proven ability to identify and enhance IT security systems.
+A creative problem-solver who approaches challenges with a focus on efficiency and real-world impact.
+Passionate about integrating code into practical solutions — both in tech and on the field.
+My background as a sportsperson fuels my teamwork, discipline, and competitive spirit in every project I take on.
+🏆 Whether it's debugging code or strategizing on the court, I bring energy, resilience, and a drive to improve.
+👉 Let’s connect if you’re looking for someone who thrives in both tech and team-driven environments!
+
+---
+
 ## 🧰 Tech Toolbox
 
 **💻 Programming Languages**: Python, C, C++, Java  
