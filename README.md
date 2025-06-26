@@ -1,3 +1,4 @@
+<img src="https://your-image-url.com/banner.png" alt="Banner" />
 <div align="center">
   
 # Hey there! I'm Jay Machhi 👋  
