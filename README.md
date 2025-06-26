@@ -33,8 +33,8 @@
 
 ## 🔗 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-machhi-03a593250/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 ---
 
