@@ -8,9 +8,9 @@
 
 ## 🔍 A Little About Me
 
-🎓 Currently pursuing a B.Tech in Information Technology at **G H Patel College of Engineering & Technology** (Batch of 2023–2027)  
-🧠 Enthusiastic learner with hands-on experience from workshops and online certifications  
-📌 Proudly based in **Valsad, Gujarat**
+🎓 Currently pursuing a B.Tech in Information Technology at **G H Patel College of Engineering & Technology** (Batch of 2023–2027).      
+🧠 Enthusiastic learner with hands-on experience from workshops and online certifications.  
+📌 Proudly based in **Valsad, Gujarat**.
 
 ---
 
