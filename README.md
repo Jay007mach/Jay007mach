@@ -94,13 +94,6 @@ I am open to exploring **any technical, analytical, or logical problem** that co
 
 ---
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Jay007mach&show_icons=true&theme=dark&hide_border=false" />
-<img src="https://streak-stats.demolab.com?user=Jay007mach&theme=dark&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay007mach&layout=compact&theme=dark&hide_border=false" />
-
----
-
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Jay007mach&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
