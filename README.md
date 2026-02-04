@@ -15,6 +15,44 @@ I am open to exploring **any technical, analytical, or logical problem** that co
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖼️ Image Caption Generator</h3>
+      <p align="center">
+        An AI-based system that automatically generates meaningful captions for images using deep learning.
+        Implements CNN-based feature extraction combined with sequence models for natural language generation.
+        <br><br>
+        <b>Tech Stack:</b> Python, TensorFlow, Keras, CNN, LSTM, NumPy
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jay007mach" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">🎮 Gamified Expense Manager</h3>
+      <p align="center">
+        A gamified personal expense management application built using the Spring Framework.
+        Designed with MVC architecture and database integration to encourage better financial habits through rewards.
+        <br><br>
+        <b>Tech Stack:</b> Java, Spring Framework, Advanced Java, MySQL, MVC
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jay007mach" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 💻 Tech Stack:
 
 ### 🧠 Programming Languages
@@ -58,9 +96,9 @@ I am open to exploring **any technical, analytical, or logical problem** that co
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Jay007mach&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jay007mach&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay007mach&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay007mach&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jay007mach&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay007mach&layout=compact&theme=dark)
 
 ---
 
