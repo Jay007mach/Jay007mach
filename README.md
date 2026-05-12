@@ -18,10 +18,9 @@ I am open to exploring **any technical, analytical, or logical problem** that co
 ## 🚀 Featured Projects
 
 <table>
-  
   <tr>
     <td width="50%">
-      <h3 align="center">🖼️ Image Caption Generator</h3>
+      <h3 align="center">Image Caption Generator</h3>
       <p align="center">
         An AI-based system that automatically generates meaningful captions for images using deep learning.
         Implements CNN-based feature extraction combined with sequence models for natural language generation.
@@ -35,12 +34,40 @@ I am open to exploring **any technical, analytical, or logical problem** that co
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 Gamified Expense Manager</h3>
+      <h3 align="center">Gamified Expense Manager</h3>
       <p align="center">
         A gamified personal expense management application built using the Spring Framework.
         Designed with MVC architecture and database integration to encourage better financial habits through rewards.
         <br><br>
         <b>Tech Stack:</b> Java, Spring Framework, Advanced Java, MySQL, MVC
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jay007mach" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Travel Companion Website</h3>
+      <p align="center">
+        YATRIKA is an ML-powered travel companion platform that helps users plan smarter and safer trips through personalized recommendations, route planning, budget prediction, and travel analytics. It uses AI and data-driven insights to improve the overall travel experience with features like companion matching and tourism forecasting.
+        <br><br>
+        <b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, REST APIs, and Machine Learning/AI-based recommendation modules
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jay007mach" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Vehicle Detection and Tracking for Traffic Monitoring</h3>
+      <p align="center">
+        TrafficVision is an ML-powered traffic monitoring and vehicle analytics system that analyzes traffic videos in real time using object detection and tracking. It detects vehicles, estimates speed, tracks movement, and generates traffic insights, heatmaps, and downloadable analytics reports.
+        <br><br>
+        <b>Tech Stack:</b> Python, Flask, OpenCV, YOLOv8 (Ultralytics), ByteTrack, NumPy, Ngrok, HTML, CSS, JavaScript, Chart.js
       </p>
       <p align="center">
         <a href="https://github.com/Jay007mach" target="_blank">
