@@ -1,0 +1,38 @@
+name: Update profile art
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, off the hour to dodge GitHub Actions congestion
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch contribution data
+        env:
+          GH_PROFILE_USER: Jay007mach
+        run: python scripts/fetch_contributions.py
+
+      - name: Render activity pitch SVG
+        run: python scripts/render_activity_pitch.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json activity-pitch.svg
+          git diff --cached --quiet || git commit -m "chore: refresh activity pitch [skip ci]"
+          git push

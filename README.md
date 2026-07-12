@@ -1,17 +1,41 @@
-# 💫 About Me:
+<!--
+  Profile README for github.com/Jay007mach/Jay007mach.
+  boot-log.svg and scoreboard-card.svg are self-hosted animated SVGs (SMIL),
+  so nothing here depends on a third-party badge service being up.
+-->
+<div align="center">
 
-I am an Information Technology undergraduate with a strong focus on **cracking the GATE exam**, driven by deep conceptual understanding and rigorous problem-solving practice. I actively work on strengthening my foundations in core computer science subjects while staying adaptable across applied technologies and interdisciplinary domains.
+<table>
+<tr>
+<td valign="top"><img src="./boot-log.svg" width="370" alt="Terminal boot log" /></td>
+<td valign="top"><img src="./scoreboard-card.svg" width="490" alt="Profile scoreboard" /></td>
+</tr>
+</table>
 
-With a background in sports, I bring **discipline, consistency, teamwork, and resilience** into my academic and technical journey. I enjoy breaking down complex concepts into simpler ideas, tackling challenging problems, and continuously improving through hands-on learning, discussions, and collaboration.
+## Jay Machhi
 
-I am open to exploring **any technical, analytical, or logical problem** that contributes to long-term academic and professional growth.
+**B.Tech Information Technology · GCET (CVM University) · GATE Aspirant**
 
----
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaymach_17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaymach17)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayvmachhi2005@gmail.com)
+
+<br>
+
+<!-- animated activity pitch, refreshed daily by .github/workflows/update-profile.yml -->
+<img src="./activity-pitch.svg" width="812" alt="GitHub activity, shown as a football pitch grid" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+I'm an Information Technology undergraduate with a strong focus on **cracking the GATE exam**, driven by deep conceptual understanding and rigorous problem-solving practice. I'm actively strengthening my core CS foundations while staying adaptable across applied technologies and interdisciplinary domains.
+
+A background in sports shows up in how I work — **discipline, consistency, teamwork, and resilience** carry over into every project and every problem set. I like taking complex ideas apart, rebuilding them simply, and improving through hands-on iteration, discussion, and collaboration.
+
+I'm open to any technical, analytical, or logical problem that compounds into long-term growth.
 
 ---
 
@@ -22,8 +46,9 @@ I am open to exploring **any technical, analytical, or logical problem** that co
     <td width="50%">
       <h3 align="center">Image Caption Generator</h3>
       <p align="center">
-        An AI-based system that automatically generates meaningful captions for images using deep learning.
-        Implements CNN-based feature extraction combined with sequence models for natural language generation.
+        Deep-learning system that generates natural-language captions for images —
+        CNN-based visual feature extraction feeding into a sequence model for
+        text generation.
         <br><br>
         <b>Tech Stack:</b> Python, TensorFlow, Keras, CNN, LSTM, NumPy
       </p>
@@ -36,8 +61,9 @@ I am open to exploring **any technical, analytical, or logical problem** that co
     <td width="50%">
       <h3 align="center">Gamified Expense Manager</h3>
       <p align="center">
-        A gamified personal expense management application built using the Spring Framework.
-        Designed with MVC architecture and database integration to encourage better financial habits through rewards.
+        Personal expense manager that turns saving into a game — built on the
+        Spring Framework with an MVC architecture and reward-driven UX to
+        nudge better financial habits.
         <br><br>
         <b>Tech Stack:</b> Java, Spring Framework, Advanced Java, MySQL, MVC
       </p>
@@ -50,11 +76,13 @@ I am open to exploring **any technical, analytical, or logical problem** that co
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Travel Companion Website</h3>
+      <h3 align="center">YATRIKA — Travel Companion Platform</h3>
       <p align="center">
-        YATRIKA is an ML-powered travel companion platform that helps users plan smarter and safer trips through personalized recommendations, route planning, budget prediction, and travel analytics. It uses AI and data-driven insights to improve the overall travel experience with features like companion matching and tourism forecasting.
+        AI-powered Gujarat tourism companion: budget prediction, demand
+        forecasting, safety scoring, companion matching, and TSP-optimized
+        route planning, all backed by a 197k-row research-grounded dataset.
         <br><br>
-        <b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, REST APIs, and Machine Learning/AI-based recommendation modules
+        <b>Tech Stack:</b> React, Node.js, Express, MongoDB, scikit-learn, SBERT, NetworkX
       </p>
       <p align="center">
         <a href="https://github.com/Jay007mach" target="_blank">
@@ -63,11 +91,13 @@ I am open to exploring **any technical, analytical, or logical problem** that co
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Vehicle Detection and Tracking for Traffic Monitoring</h3>
+      <h3 align="center">TrafficVision — Vehicle Detection & Tracking</h3>
       <p align="center">
-        TrafficVision is an ML-powered traffic monitoring and vehicle analytics system that analyzes traffic videos in real time using object detection and tracking. It detects vehicles, estimates speed, tracks movement, and generates traffic insights, heatmaps, and downloadable analytics reports.
+        Real-time traffic analytics from video: vehicle detection, speed
+        estimation, tracking, and downloadable heatmap reports through a
+        live Flask dashboard.
         <br><br>
-        <b>Tech Stack:</b> Python, Flask, OpenCV, YOLOv8 (Ultralytics), ByteTrack, NumPy, Ngrok, HTML, CSS, JavaScript, Chart.js
+        <b>Tech Stack:</b> Python, Flask, OpenCV, YOLOv8, ByteTrack, Chart.js
       </p>
       <p align="center">
         <a href="https://github.com/Jay007mach" target="_blank">
@@ -80,7 +110,7 @@ I am open to exploring **any technical, analytical, or logical problem** that co
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
